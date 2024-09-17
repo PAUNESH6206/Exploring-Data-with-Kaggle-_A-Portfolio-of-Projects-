@@ -1,0 +1,282 @@
+Electric car model,Charging time at 240V (hours),Motor / battery information
+2019 smart EQ fortwo (coupe),3,60 KW AC Synchronous
+2019 smart EQ fortwo (convertible),3,60 KW AC Synchronous
+2018 smart fortwo electric drive coupe,3,60 KW AC Synchronous
+2018 smart fortwo electric drive convertible,3,60 KW AC Synchronous
+2017 smart fortwo electric drive coupe,3,60 KW AC Synchronous
+2017 smart fortwo electric drive convertible,3,60 KW AC Synchronous
+2017 Mercedes-Benz B250e,3.5,132 kW AC Induction
+2016 Mercedes-Benz B250e,3.5,132 kW AC Induction
+2015 Mercedes-Benz B-Class Electric Drive,3.5,132 kW AC Induction
+2014 Mercedes-Benz B-Class Electric Drive,3.5,132 kW AC Induction
+2016 Ford Focus Electric,3.6,107 kW AC PMSM
+2015 Ford Focus Electric,3.6,107 kW AC PMSM
+2014 Ford Focus Electric,3.6,107 kW AC PMSM
+2022 MINI Cooper SE Hardtop 2 door,4,135 kW DCPM
+2021 MINI Cooper SE Hardtop 2 door,4,135 kW DCPM
+2020 MINI Cooper SE Hardtop 2 door,4,135 kW DCPM
+2019 Hyundai Ioniq Electric,4,88 kW AC PMSM
+2019 Honda Clarity EV,4,120 kW AC PMSM
+2019 Fiat 500e,4,82 kW AC Induction
+2018 Hyundai Ioniq Electric,4,88 kW AC PMSM
+2018 Honda Clarity EV,4,120 kW AC PMSM
+2018 Fiat 500e,4,82 kW AC Induction
+2017 Kia Soul Electric,4,81 kW AC PMSM
+2017 Hyundai Ioniq Electric,4,88 kW AC PMSM
+2017 Honda Clarity EV,4,120 kW AC PMSM
+2017 Fiat 500e,4,82 kW AC Induction
+2017 BMW i3 BEV (60 Amp-hour battery),4,125 kW AC Induction
+2016 Kia Soul Electric,4,81 kW AC PMSM
+2016 Fiat 500e,4,82 kW AC Induction
+2016 BMW i3 BEV,4,125 kW AC Induction
+2015 Volkswagen e-Golf,4,85 kW AC PMSM
+2015 Kia Soul Electric,4,81 kW AC PMSM
+2015 Fiat 500e,4,82 kW AC Induction
+2015 BMW i3 BEV,4,125 kW AC Induction
+2014 Honda Fit EV,4,92 kW DCPM
+2014 Fiat 500e,4,82 kW ACIPM
+2014 BMW i3 BEV,4,125 kW AC Induction
+2013 Honda Fit EV,4,92 kW DCPM
+2013 Ford Focus Electric,4,107 kW AC PMSM
+2013 Fiat 500e,4,82 kW ACIPM
+2012 Ford Focus Electric,4,107 kW AC Induction
+2020 BYD e6,5,75 kW DCPM
+2019 Kia Soul Electric,5,81 kW AC PMSM
+2019 BMW i3s,5,135 kW AC Induction
+2019 BMW i3,5,125 kW AC Induction
+2018 Kia Soul Electric,5,81 kW AC PMSM
+2018 BYD e6,5,75 kW DCPM
+2018 BMW i3s (94Ah),5,125 kW AC Induction
+2018 BMW i3 (94Ah),5,125 kW AC Induction
+2017 BYD e6,5,75 kW DCPM
+2017 BMW i3 BEV (94 Amp-hour battery),5,125 kW AC Induction
+2016 BYD e6,5,75 kW DCPM
+2011 BMW Active E,5,125 kW AC Induction
+2019 Volkswagen e-Golf,5.3,100 kW AC PMSM
+2018 Volkswagen e-Golf,5.3,100 kW AC PMSM
+2017 Volkswagen e-Golf,5.3,100 kW AC PMSM
+2018 Ford Focus Electric,5.5,107 kW AC PMSM
+2017 Ford Focus Electric,5.5,107 kW AC PMSM
+2021 Hyundai Ioniq Electric,5.8,100 kW AC PMSM
+2020 Hyundai Ioniq Electric,5.8,100 kW AC PMSM
+2017 Nissan Leaf,6,80 kW DCPM
+2016 smart fortwo electric drive coupe,6,55 kW DCPM
+2016 smart fortwo electric drive convertible,6,55 kW DCPM
+2016 Nissan Leaf (30 kW-hr battery pack),6,80 kW DCPM
+2015 smart fortwo electric drive coupe,6,55 kW DCPM
+2015 smart fortwo electric drive convertible,6,55 kW DCPM
+2014 Toyota RAV4 EV,6,115 kW AC Induction
+2014 smart fortwo electric drive coupe,6,55 kW DCPM
+2014 smart fortwo electric drive convertible,6,55 kW DCPM
+2014 BYD e6,6,75 kW AC PMSM
+2013 Toyota RAV4 EV,6,115 kW AC Induction
+2013 Tesla Model S (40 kW-hr battery pack),6,225 kW AC Induction
+2013 smart fortwo electric drive coupe,6,55 kW DCPM
+2013 smart fortwo electric drive convertible,6,55 kW DCPM
+2013 CODA Automotive CODA,6,100 kW DCPM
+2013 BYD e6,6,75 kW AC PMSM
+2012 Toyota RAV4 EV,6,115 kW AC Induction
+2012 CODA Automotive CODA,6,100 kW DCPM
+2012 BYD e6,6,75 kW AC PMSM
+2016 Volkswagen e-Golf,3.7,85 kW AC PMSM
+2021 Kandi K27,7,20 kW AC Induction
+2021 BMW i3s,7,135 kW AC Induction
+2021 BMW i3,7,125 kW AC Induction
+2020 BMW i3s,7,135 kW AC Induction
+2020 BMW i3,7,125 kW AC Induction
+2017 Mitsubishi i-MiEV,7,49 kW DCPM
+2016 Mitsubishi i-MiEV,7,49 kW DCPM
+2016 Chevrolet Spark EV,7,105 kW AC PMSM
+2015 Chevrolet Spark EV,7,104 kW AC PMSM
+2014 Mitsubishi i-MiEV,7,49 kW DCPM
+2014 Chevrolet Spark EV,7,104 kW AC Induction
+2013 Nissan Leaf,7,80 kW DCPM
+2013 Mitsubishi i-MiEV,7,49 kW DCPM
+2012 Nissan Leaf,7,80 kW DCPM
+2012 Mitsubishi i-MiEV,7,49 kW DCPM
+2011 Nissan Leaf,7,80 kW DCPM
+2022 Chevrolet Bolt EV,7.5,150 kW AC PMSM
+2022 Chevrolet Bolt EUV,7.5,150 kW AC PMSM
+2021 Volkswagen ID.4 Pro S,7.5,150 kW AC 3-Phase
+2021 Volkswagen ID.4 Pro,7.5,150 kW AC 3-Phase
+2021 Volkswagen ID.4 1st,7.5,150 kW AC 3-Phase
+2021 Tesla Model 3 Standard Range Plus RWD,7.8,198 kW AC 3-Phase
+2021 Volvo XC40 AWD BEV,8,150 kW AC PMSM
+2022 Tesla Model Y RWD,8,209 kW AC 3-Phase
+2021 Tesla Model Y Standard Range RWD,8,209 kW AC 3-Phase
+2021 Polestar 2,8,150 kW AC PMSM
+2021 Nissan Leaf (40 kW-hr battery pack),8,110 kW DCPM
+2020 Nissan Leaf (40 kW-hr battery pack),8,110 kW DCPM
+2019 Nissan Leaf (40 kW-hr battery pack),8,110 kW DCPM
+2018 Nissan Leaf,8,110 kW DCPM
+2016 Nissan Leaf (24 kW-hr battery pack),8,80 kW DCPM
+2015 Nissan Leaf,8,80 kW DCPM
+2014 Nissan Leaf,8,80 kW DCPM
+2012 Azure Dynamics Transit Connect Electric Wagon,8,52 kW AC Induction
+2012 Azure Dynamics Transit Connect Electric Van,8,52 kW AC Induction
+2011 smart fortwo electric drive coupe,8,30 kW DCPM
+2011 smart fortwo electric drive cabriolet,8,30 kW DCPM
+2021 Ford Mustang Mach-E AWD,8.5,198 and 198 kW AC PMSM
+2020 Tesla Model 3 Standard Range Plus,8.5,211 kW AC 3-Phase
+2020 Tesla Model 3 Standard Range,8.5,211 kW AC 3-Phase
+2019 Tesla Model 3 Standard Range,8.5,211 kW AC 3-Phase
+2021 Ford Mustang Mach-E RWD,8.8,198 kW AC PMSM
+2021 Hyundai Kona Electric,9,150 kW AC PMSM
+2020 Hyundai Kona Electric,9,150 kW AC PMSM
+2019 Hyundai Kona Electric,9,150 kW AC PMSM
+2020 Tesla Model X Standard Range,9.2,193 and 205 kW AC 3-Phase
+2020 Tesla Model S Standard Range,9.2,193 and 205 kW AC 3-Phase
+2019 Tesla Model S Standard Range,9.2,193 and 205 kW AC 3-Phase
+2019 Chevrolet Bolt EV,9.3,150 kW ACPM
+2018 Chevrolet Bolt EV,9.3,150 kW ACPM
+2017 Chevrolet Bolt EV,9.3,150 kW ACPM
+2021 Porsche Taycan Perf Battery,9.5,240 kW ACPM
+2021 Porsche Taycan 4S Perf Battery,9.5,194 and 280 kW ACPM
+2021 Kia Niro Electric,9.5,150 kW AC PMSM
+2020 Kia Soul Electric,9.5,201 kW AC PMSM
+2020 Kia Niro Electric,9.5,150 kW IPMSM
+2019 Tesla Model 3 Standard Range Plus,9.5,211 kW AC 3-Phase
+2019 Kia Niro Electric,9.5,150 kW IPMSM
+2021 Tesla Model Y Long Range AWD,10,69 and 201 kW AC 3-Phase
+2021 Chevrolet Bolt EV,10,150 kW ACPM
+2021 Audi e-tron Sportback,10,141 and 172 kW Asynchron 3-Phase
+2021 Audi e-tron,10,141 and 172 kW Asynchron 3-Phase
+2020 Tesla Model Y Performance AWD (21in Wheels),10,158 and 219 kW AC 3-Phase
+2020 Tesla Model Y Performance AWD,10,147 and 211 kW AC 3-Phase
+2020 Tesla Model Y Long Range AWD,10,158 and 203 kW AC 3-Phase
+2020 Tesla Model 3 Mid Range,10,211 kW AC 3-Phase
+2020 Tesla Model 3 Long Range Performance AWD (20in),10,147 and 211 kW AC 3-Phase
+2020 Tesla Model 3 Long Range Performance AWD (19in),10,147 and 211 kW AC 3-Phase
+2020 Tesla Model 3 Long Range Performance AWD (18in),10,147 and 211 kW AC 3-Phase
+2020 Tesla Model 3 Long Range AWD,10,147 and 188 kW AC 3-Phase
+2020 Tesla Model 3 Long Range,10,211 kW AC 3-Phase
+2020 Porsche Taycan Turbo,10,170 kW ACPM
+2020 Chevrolet Bolt EV,10,150 kW ACPM
+2020 Audi e-tron Sportback,10,141 and 172 kW Asynchron 3-Phase
+2019 Tesla Model 3 Mid Range,10,211 kW AC 3-Phase
+2019 Tesla Model 3 Long Range AWD Performance,10,147 and 211 kW AC 3-Phase
+2019 Tesla Model 3 Long Range AWD,10,147 and 188 kW AC 3-Phase
+2019 Tesla Model 3 Long Range,10,211 kW AC 3-Phase
+2019 Audi e-tron,10,141 and 172 kW Asynchron 3-Phase
+2018 Tesla Model S 75kWh,10,270 kW AC Induction (75 kW-hr battery pack)
+2018 Tesla Model 3 Mid Range,10,202 kW AC 3-Phase
+2018 Tesla Model 3 Long Range AWD Performance,10,147 and 202 kW AC 3-Phase
+2018 Tesla Model 3 Long Range AWD,10,147 and 188 kW AC 3-Phase
+2018 Tesla Model 3 Long Range,10,202 kW AC 3-Phase
+2017 Tesla Model S (60 kW-hr battery pack),10,285 kW AC Induction (60 kW-hr battery pack)
+2016 Tesla Model S (70 kW-hr battery pack),10,285 kW AC Induction (70 kW-hr battery pack)
+2016 Tesla Model S (60 kW-hr battery pack),10,285 kW AC Induction (60 kW-hr battery pack)
+2015 Tesla Model S (60 kW-hr battery pack),10,225 kW AC Induction (60 kW-hr battery pack)
+2014 Tesla Model S (60 kW-hr battery pack),10,225 kW AC Induction (60 kW-hr battery pack)
+2013 Tesla Model S (60 kW-hr battery pack),10,225 kW AC Induction
+2022 Tesla Model 3 Performance AWD,10,131 and 190 kW AC 3-Phase
+2022 Tesla Model 3 RWD,10.4,192 kW AC 3-Phase
+2021 Porsche Taycan Turbo S,10.5,TBD ACPM
+2021 Porsche Taycan Turbo,10.5,TBD ACPM
+2021 Porsche Taycan Perf Battery Plus,10.5,280 kW ACPM
+2021 Porsche Taycan 4S Perf Battery Plus,10.5,210 and 250 kW ACPM
+2020 Porsche Taycan Turbo S,10.5,120 and 170 kW ACPM
+2020 Porsche Taycan 4S Perf Battery Plus,10.5,120 kW ACPM
+2021 Ford Mustang Mach-E AWD Extended,10.7,209 and 209 kW AC PMSM
+2021 Ford Mustang Mach-E RWD Extended,10.9,216 kW AC PMSM
+2021 Nissan Leaf SV/SL (62 kW-hr battery pack),11,160 kW DCPM
+2021 Nissan Leaf (62 kW-hr battery pack),11,160 kW DCPM
+2020 Nissan Leaf SV/SL (62 kW-hr battery pack),11,160 kW DCPM
+2020 Nissan Leaf (62 kW-hr battery pack),11,160 kW DCPM
+2019 Nissan Leaf SV/SL (62 kW-hr battery pack),11,160 kW DCPM
+2019 Nissan Leaf (62 kW-hr battery pack),11,160 kW DCPM
+2021 Tesla Model 3 Long Range AWD,11.2,98 and 195 kW AC 3-Phase
+2021 Ford Mustang Mach-E RWD California Route 1,11.4,216 kW ACPM
+2022 Tesla Model Y Long Range AWD,11.5,91 and 200 kW AC 3-Phase
+2022 Tesla Model 3 Long Range AWD,11.5,98 and 195 kW AC 3-Phase
+2021 Tesla Model 3 Performance AWD,11.6,131 and 190 kW AC 3-Phase
+2021 Tesla Model Y Performance AWD,11.8,133 and 179 kW AC 3-Phase
+2022 Tesla Model Y Performance AWD,11.8,133 and 179 kW AC 3-Phase
+2020 Tesla Model X Performance (22in Wheels),12,205 and 375 kW AC 3-Phase
+2020 Tesla Model X Performance (20in Wheels),12,205 and 375 kW AC 3-Phase
+2020 Tesla Model X Long Range Plus,12,193 and 205 kW AC 3-Phase
+2020 Tesla Model X Long Range,12,193 and 205 kW AC 3-Phase
+2020 Tesla Model S Performance (21in Wheels),12,193 and 205 kW AC 3-Phase
+2020 Tesla Model S Performance (19in Wheels),12,193 and 205 kW AC 3-Phase
+2020 Tesla Model S Long Range,12,193 and 205 kW AC 3-Phase
+2019 Tesla Model X Performance (22in Wheels),12,193 (front); 205/375 (rear) kW ACPM
+2019 Tesla Model X P100D,12,193 (front) 375 (rear) kW (100 kW-hr battery pack)
+2019 Tesla Model X Long Range,12,193 (front); 205/375 (rear) kW ACPM
+2019 Tesla Model X 75D,12,193 (front) 193 (rear) kW (75 kW-hr battery pack)
+2019 Tesla Model X 100D,12,193 (front) 193 (rear) kW (100 kW-hr battery pack)
+2019 Tesla Model S Performance (21in Wheels),12,193 and 205 kW AC 3-Phase
+2019 Tesla Model S Performance (19in Wheels),12,193 and 205 kW AC 3-Phase
+2019 Tesla Model S P100D,12,193 (front) 375 (rear) kW (100 kW-hr battery pack)
+2019 Tesla Model S Long Range,12,193 and 205 kW AC 3-Phase
+2019 Tesla Model S 75D,12,193 (front) 193 (rear) kW (75 kW-hr battery pack)
+2019 Tesla Model S 100D,12,193 (front) 193 (rear) kW (100 kW-hr battery pack)
+2018 Tesla Model X P100D,12,193 (front) 375 (rear) kW (100 kW-hr battery pack)
+2018 Tesla Model X 75D,12,193 (front) 193 (rear) (75 kW-hr battery pack)
+2018 Tesla Model X 100D,12,193 (front) 193 (rear) (100 kW-hr battery pack)
+2018 Tesla Model S P100D,12,193 (front) 375 (rear) (100 kW-hr battery pack)
+2018 Tesla Model S 75D,12,193 (front) 193 (rear) (75 kW-hr battery pack)
+2018 Tesla Model S 100D,12,193 (front) 193 (rear) (100 kW-hr battery pack)
+2017 Tesla Model X AWD – P90D,12,193 (front) 375 (rear) (90 kW-hr battery pack)
+2017 Tesla Model X AWD – P100D,12,193 (front) 375 (rear) (100 kW-hr battery pack)
+2017 Tesla Model X AWD – 90D,12,193 (front) 193 (rear) (90 kW-hr battery pack)
+2017 Tesla Model X AWD – 75D,12,193 (front) 193 (rear) (75 kW-hr battery pack)
+2017 Tesla Model X AWD – 60D,12,193 (front) 193 (rear) (60 kW-hr battery pack)
+2017 Tesla Model X AWD – 100D,12,193 (front) 193 (rear) (100 kW-hr battery pack)
+2017 Tesla Model S AWD – P90D,12,193 (front) 375 (rear) (90 kW-hr battery pack)
+2017 Tesla Model S AWD – P100D,12,193 (front) 375 (rear) (100 kW-hr battery pack)
+2017 Tesla Model S AWD – 90D,12,193 (front) 193 (rear) (90 kW-hr battery pack)
+2017 Tesla Model S AWD – 75D,12,193 (front) 193 (rear) (75 kW-hr battery pack)
+2017 Tesla Model S AWD – 60D,12,193 (front) 193 (rear) (60 kW-hr battery pack)
+2017 Tesla Model S AWD – 100D,12,193 (front) 193 (rear) (100 kW-hr battery pack)
+2017 Tesla Model S (75 kW-hr battery pack),12,285 kW AC Induction (75 kW-hr battery pack)
+2017 Tesla Model 3 Long Range,12,192 kW AC 3-Phase
+2016 Tesla Model X AWD – P90D,12,193 (front) 375 (rear) (90 kW-hr battery pack)
+2016 Tesla Model X AWD – P100D,12,193 (front) 375 (rear) (100 kW-hr battery pack)
+2016 Tesla Model X AWD – 90D,12,193 (front) 193 (rear) (90 kW-hr battery pack)
+2016 Tesla Model X AWD – 75D,12,193 (front) 193 (rear) (75 kW-hr battery pack)
+2016 Tesla Model X AWD – 60D,12,193 (front) 193 (rear) (60 kW-hr battery pack)
+2016 Tesla Model S AWD – P90D,12,193 (front) 375 (rear) (90 kW-hr battery pack)
+2016 Tesla Model S AWD – P85D,12,193 (front) 375 (rear) (85 kW-hr battery pack)
+2016 Tesla Model S AWD – P100D,12,193 (front) 375 (rear) (100 kW-hr battery pack)
+2016 Tesla Model S AWD – 90D,12,193 (front) 193 (rear) (90 kW-hr battery pack)
+2016 Tesla Model S AWD – 85D,12,193 (front) 193 (rear) (85 kW-hr battery pack)
+2016 Tesla Model S AWD – 75D,12,193 (front) 193 (rear) (75 kW-hr battery pack)
+2016 Tesla Model S AWD – 70D,12,193 (front) 193 (rear) (70 kW-hr battery pack)
+2016 Tesla Model S AWD – 60D,12,193 (front) 193 (rear) (60 kW-hr battery pack)
+2016 Tesla Model S (90 kW-hr battery pack),12,285 kW AC Induction (90 kW-hr battery pack)
+2016 Tesla Model S (85 kW-hr battery pack),12,285 kW AC Induction (85 kW-hr battery pack)
+2016 Tesla Model S (75 kW-hr battery pack),12,285 kW AC Induction (75 kW-hr battery pack)
+2015 Tesla Model S AWD – P90D,12,164 (front) 350 (rear) (90 kW-hr battery pack)
+2015 Tesla Model S AWD – P85D,12,164 (front) 350 (rear) (85 kW-hr battery pack)
+2015 Tesla Model S AWD – 90D,12,140 (front) 140 (rear) (90 kW-hr battery pack)
+2015 Tesla Model S AWD – 85D,12,140 (front) 140 (rear) (85 kW-hr battery pack)
+2015 Tesla Model S AWD – 70D,12,140 (front) 140 (rear) (70 kW-hr battery pack)
+2015 Tesla Model S (90 kW-hr battery pack),12,285 kW AC Induction (90 kW-hr battery pack)
+2015 Tesla Model S (85 kW-hr battery pack),12,270 kW AC Induction (85 kW-hr battery pack)
+2014 Tesla Model S AWD (85 kW-hr battery pack),12,180 and 350 kW AC Induction (85 kW-hr battery pack)
+2014 Tesla Model S (85 kW-hr battery pack),12,270 kW AC Induction (85 kW-hr battery pack)
+2013 Tesla Model S (85 kW-hr battery pack),12,270 kW AC Induction
+2012 Tesla Model S,12,260 kW AC Induction
+2021 Jaguar I-Pace EV400,13,147 and 147 kW AC 3-Phase
+2020 Jaguar I-Pace,13,147 and 147 kW AC 3-Phase
+2019 Jaguar I-Pace,13,147 and 147 kW AC 3-Phase
+2022 Lucid Air Grand Touring with 19in wheels,13,198 and 498kW ACPM
+2022 Lucid Air Dream Range with 19in wheels,13,198 and 498kW ACPM
+2022 Lucid Air Grand Touring with 21in wheels,13,198 and 498kW ACPM
+2022 Lucid Air Dream Performance with 19in wheels,13,198 and 498kW ACPM
+2022 Lucid Air Dream Range with 21in wheels,13,198 and 498kW ACPM
+2022 Lucid Air Dream Performance with 21in wheels,13,198 and 498kW ACPM
+2022 Tesla Model X,14,243 and 248 kW AC 3-Phase
+2022 Tesla Model X Plaid (20in Wheels),14, 230 and 230 kW AC 3-Phase
+2022 Tesla Model X Plaid (22in Wheels),14, 230 and 230 kW AC 3-Phase
+2021 Tesla Model S Performance (21in Wheels),14.7,149 and 276 kW AC 3-Phase
+2021 Tesla Model S Performance (19in Wheels),14.7,149 and 276 kW AC 3-Phase
+2021 Tesla Model X Performance (22in Wheels),15,151 and 273 kW AC 3-Phase
+2021 Tesla Model X Performance (20in Wheels),15,151 and 273 kW AC 3-Phase
+2021 Tesla Model X Long Range Plus,15,180 and 189 kW AC 3-Phase
+2021 Tesla Model S Plaid (21in Wheels),15,250 and 250 kW AC 3-Phase
+2021 Tesla Model S Long Range,15,179 and 186 kW AC 3-Phase
+2022 Tesla Model S Plaid (21in Wheels),15, 250 and 250 kW AC 3-Phase
+2022 Tesla Model S Plaid (19in Wheels),15, 250 and 250 kW AC 3-Phase
+2022 Tesla Model S,15,247 and 247 kW AC 3-Phase
+2020 Tesla Model S Long Range Plus,15.3,193 and 375 kW AC 3-Phase
